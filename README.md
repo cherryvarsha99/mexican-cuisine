@@ -30,17 +30,21 @@ web components are set of web platform  API's taht allows user to create   reusa
 
 
 
-###Credits:
--[Web Components By Jack Herrington](https://www.youtube.com/watch?v=XUtCnA9WEgQ&list=PLNqp92_EXZBIjRHstP4tzzIAT3XjJ1kmr)
+### Credits:
+ [Web Components By Jack Herrington](https://www.youtube.com/watch?v=XUtCnA9WEgQ&list=PLNqp92_EXZBIjRHstP4tzzIAT3XjJ1kmr)
 
 ### Resources:
 
--[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
--[Web Fundamentals](https://developers.google.com/web/fundamentals/web-components/customelements)
--[HTML elements](https://html.spec.whatwg.org/multipage/custom-elements.html)
+>[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
+
+>[Web Fundamentals](https://developers.google.com/web/fundamentals/web-components/customelements)
+
+>[HTML elements](https://html.spec.whatwg.org/multipage/custom-elements.html)
+
+>[webComponents Examples](https://github.com/mdn/web-components-examples)
 
 ## Contributor :
 
   <img src="vsv.png" alt="drawing" width="150" style="border-radius:50%" />                 
- -[Sai Varsha Vellanki](https://github.com/cherryvarsha99) 
+ [Sai Varsha Vellanki](https://github.com/cherryvarsha99) 
 
