@@ -23,7 +23,13 @@ web components are set of web platform  API's taht allows user to create   reusa
 
 ## Process:
 
+The following lifecycle hooks are available:
 
+- constructor()
+- connectedCallback()
+- disconnectedCallback()
+- attributeChangedCallback(name, oldValue, newValue)
+- adoptedCallback()
 
 
 
