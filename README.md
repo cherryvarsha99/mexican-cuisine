@@ -13,11 +13,10 @@ web components are set of web platform  API's taht allows user to create   reusa
 
 
 ### Prerequisites:
-- Node.js (comes with npm)
 - Git
 - TortoiseGit
 - VS Code
--PowerShell
+
 
 
 
