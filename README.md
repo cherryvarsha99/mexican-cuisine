@@ -51,6 +51,7 @@ The following lifecycle hooks are available:
 
 ## Contributor :
 
-  <img src="vsv.png" alt="drawing" width="150" style="border-radius:50%" />                 
+  <img src="vsv.png" alt="drawing" width="150" style="border-radius:50%" />  
+  
  [Sai Varsha Vellanki](https://github.com/cherryvarsha99) 
 
